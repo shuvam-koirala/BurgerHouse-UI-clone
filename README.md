@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Here are some screenshots of the app
+## Screenshot 1
+<img src="Screenshot_2020-11-08-15-16-30-866_com.example.BurgerHouseUi.jpg" alt="Markdown Monster icon" style="float:left;margin-right:10px;" width="300" />
