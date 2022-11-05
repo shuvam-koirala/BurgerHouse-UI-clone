@@ -1,7 +1,7 @@
 # BurgerHouse
 
 ## Here are some screenshots of the app
-## Screenshot 1
+
 <img src="Screenshot_2020-11-08-15-16-30-866_com.example.BurgerHouseUi.jpg" alt="Markdown Monster icon"  width="500"/>
 
 ## Created & Maintained By
